@@ -1,0 +1,10 @@
+{
+  "firstName": "John Doe",
+  "email": "johndoe@example.com",
+  "phone": "1234567890",
+  "street": "123 Main St",
+  "city": "Lahore",
+  "state": "Punjab",
+  "zipCode": "54000",
+  "country": "Pakistan"
+}
